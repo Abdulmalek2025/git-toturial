@@ -1,0 +1,4 @@
+tasks.txt
+*.exe
+!app1.exe
+node/
