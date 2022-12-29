@@ -1,2 +1,4 @@
 welcome from second file
 welcome from master.
+welcome from location 2.
+
